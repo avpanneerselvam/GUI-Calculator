@@ -1,5 +1,5 @@
 # GUI-Calculator
-A GUI Calculator using Python Tkinter 
+A GUI Calculator using Python and Tkinter 
 
 
 This Calculator performs some basic operations like
